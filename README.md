@@ -1,3 +1,7 @@
+# Tailwind CSS
+- [Tailwind CSS Cheat Sheet](https://tailwindcomponents.com/cheatsheet/)
+- [Tailwind Responsive Design](https://tailwindcss.com/docs/responsive-design)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
